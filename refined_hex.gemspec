@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = 'refined_hex'
   s.version     = '0.2.1'
-  s.date        = '2016-03-08'
+  s.date        = '2016-03-09'
   s.summary     = "Hex conversion via refinements"
   s.description = "A tiny gem providing a refinement for converting to and from hex-encoding"
   s.authors     = ["Craig Hills"]
